@@ -1,0 +1,26 @@
+span {
+    color: red
+}
+img {
+    height: 100px;
+    width: 150px;
+}
+.p1 {
+    color: blue
+}
+
+.p2 {
+    color: aquamarine
+}
+
+#d2,#d1 {
+    color: brown;
+    font-size: 20px
+}
+#d3 .format{
+    color: cyan
+}
+
+#d4 .format{
+    color: darkgoldenrod
+}
